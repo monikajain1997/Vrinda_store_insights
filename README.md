@@ -2,7 +2,7 @@
 
 This project aims to analyze and visualize the sales data for Vrinda Store for the year 2022. The analysis provides insights into sales performance, trends, and patterns using various data visualization techniques. The project is implemented using Microsoft Excel.
 
-![vrinda_store_analysis](https://github.com/monikajain1997/Vrinda_store_insights/assets/121723520/ffcf7304-2c2c-4c45-9b90-e944af4de073)
+![vrinda_store_dashboard](https://github.com/monikajain1997/Vrinda_store_insights/assets/121723520/ff6b0bad-c8a7-4a57-a8e0-5b909b347113)
 
 ## Table of Contents
 
