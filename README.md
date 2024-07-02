@@ -68,6 +68,6 @@ The Vrinda Store Annual Report 2022 provides valuable insights into the store's 
 ## Contact
 
 For any questions or inquiries, please contact:
-- Name: [Monika Jain]
-- Email: [jainmonika357@gmail.com]
+- Name: Monika Jain
+- Email: jainmonika357@gmail.com
 
